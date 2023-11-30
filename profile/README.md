@@ -1,12 +1,8 @@
 # Tweaver 👋
 
-<br />
+> 혼자가 아니야, Trip With Buddy - Tweaver
 
-## Overview
-
-> 혼자가 아니야, Trip With Buddy - <span style='color: #3182f6'>Tweaver</span>
-
-Tweaver는 좀 더 쉽게 여행을 떠날 수 있도록 도와주는 <b>당일치기 여행 스케줄링</b> + <b>일행 모집</b> 플랫폼입니다.
+<span style='color: #3182f6'>Tweaver</span>는 좀 더 쉽게 여행을 떠날 수 있도록 도와주는 <b>당일치기 여행 스케줄링</b> + <b>일행 모집</b> 플랫폼입니다.
 <br />
 
 🗓 일정을 등록하고, 함께 여행을 떠날 일행을 구할 수 있습니다. <br />
