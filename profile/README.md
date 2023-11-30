@@ -14,11 +14,11 @@
 
 ### ⚙️ 프로젝트 아키텍처
 
-![프로젝트 아키텍처](https://file.notion.so/f/f/ea9e04ec-3164-4750-8b61-7031dfd6657e/3f905506-56a2-4ea1-b0b6-18b0f14b2b58/Untitled.png?id=77eb45b6-e651-41ec-990a-4d040298b747&table=block&spaceId=ea9e04ec-3164-4750-8b61-7031dfd6657e&expirationTimestamp=1701345600000&signature=1dzcYKF12iwVfiX4o_MQBMLITYCqfA6ZPq12kXU948g&downloadName=Untitled.png)
+![프로젝트 아키텍처](https://github.com/ValueWith/.github/assets/110911811/1641cd3f-f64b-43cb-9aaf-5df980ae9b79)
 
 ### 💽 ERD 구조
 
-![ERD](https://file.notion.so/f/f/ea9e04ec-3164-4750-8b61-7031dfd6657e/1c3be923-040e-4b8e-8fef-b0cfa30d1ce0/%E1%84%80%E1%85%A1%E1%87%80%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A1%E1%84%8E%E1%85%B5_ERD_231118.jpg?id=a2303bdf-8bd9-4c9a-9498-f184437ebb1b&table=block&spaceId=ea9e04ec-3164-4750-8b61-7031dfd6657e&expirationTimestamp=1701345600000&signature=KfCfziOzI_t0zH4cSItxhQsK1QZsyfZCFzyUC2SpW6c&downloadName=%E1%84%80%E1%85%A1%E1%87%80%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A1%E1%84%8E%E1%85%B5_ERD_231118.jpg)
+![ERD](https://github.com/ValueWith/.github/assets/110911811/f6393303-8e70-4a25-8039-7d558f97f480)
 
 ## 📚 기술 스택
 
