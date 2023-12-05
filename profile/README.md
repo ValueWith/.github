@@ -76,8 +76,7 @@
 
 ### 💽 ERD 구조
 
-![ERD](https://github.com/ValueWith/.github/assets/110911811/f6393303-8e70-4a25-8039-7d558f97f480)
-
+![같이가치_ERD_231118opt](https://github.com/ValueWith/.github/assets/110911811/71da7073-afbe-4409-9f3d-6aecb0f924cf)
 
 
 ## 3. 서비스 주요 기능
@@ -92,11 +91,4 @@
 
 <br/>
 
-| 일정 등록 | 경로 추천   | 
-| -------- | ----------------- |
-|  |             | 
-
-
-![T일정등록](https://github.com/ValueWith/.github/assets/110911811/38daba22-f2ed-4aec-b470-411e59ac4fff)
-![T장소등록](https://github.com/ValueWith/.github/assets/110911811/11f35cdd-ec55-475a-a780-4a7867c09cbe)
-
+![T경로추천](https://github.com/ValueWith/ValueWith_FE/assets/110911811/43fc043c-c433-40a8-9ea5-2851f5110aa2)
