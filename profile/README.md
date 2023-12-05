@@ -73,3 +73,9 @@
 <br />
 ![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+
+## 주요 기능
+| 일정 등록 | 경로 추천   | 
+| -------- | ----------------- |
+|   |             | 
