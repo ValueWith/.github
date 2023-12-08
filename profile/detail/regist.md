@@ -1,6 +1,7 @@
 ## 일정 등록
 
 ![T일정등록](https://github.com/ValueWith/.github/assets/110911811/7674c389-71f8-4691-9fdc-9c8d17fe34b7)
+![T장소등록](https://github.com/ValueWith/.github/assets/110911811/c7d0117b-9dd8-4c1d-b93d-346fcec6f337)
 
 ### Frontend
 
