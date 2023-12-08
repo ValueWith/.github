@@ -96,7 +96,7 @@
 ### 🔍 기능 상세
 
 
-| [일정 등록](./detail/regist.md)                                                                                                        | [경로 추천](./detail/route.md)                                                                                                      |
+| [일정 등록](https://github.com/ValueWith/.github/blob/main/profile/detail/regist.md)                                                                                                        | [경로 추천](https://github.com/ValueWith/.github/blob/main/profile/detail/route.md)                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![T일정등록](https://github.com/ValueWith/.github/assets/110911811/7674c389-71f8-4691-9fdc-9c8d17fe34b7) | ![T경로추천](https://github.com/ValueWith/.github/assets/110911811/81bba19c-acbb-4acc-8dce-72f677b6ac79) |
 
