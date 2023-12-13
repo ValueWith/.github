@@ -102,14 +102,14 @@
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![T일정등록](https://github.com/ValueWith/.github/assets/110911811/7674c389-71f8-4691-9fdc-9c8d17fe34b7) | ![T경로추천](https://github.com/ValueWith/.github/assets/110911811/81bba19c-acbb-4acc-8dce-72f677b6ac79) |
 
-| 이미지 업로드                                                                                               | 검색 및 필터링                                                                                                |
+| [이미지 업로드](https://github.com/ValueWith/.github/blob/main/profile/detail/upload.md)                                                                                               | [검색 및 필터링](https://github.com/ValueWith/.github/blob/main/profile/detail/filter.md)                                                                                                |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ![이미지opt](https://github.com/ValueWith/.github/assets/110911811/674c33a3-ab73-4594-9417-59dd96f2535f) | ![필터링opt](https://github.com/ValueWith/.github/assets/110911811/024b33ab-11e1-4ce2-9763-2d9a35ae4f90) |
 
-| 실시간 그룹채팅                                                                                         | 그룹 관리                                                                                                        |
+| [실시간 그룹채팅](https://github.com/ValueWith/.github/blob/main/profile/detail/chatting.md)                                                                                         | [그룹 관리](https://github.com/ValueWith/.github/blob/main/profile/detail/manage.md)                                                                                                        |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | ![T채팅](https://github.com/ValueWith/.github/assets/110911811/6708e930-f74a-4f2d-97f7-ef7491c8ca94) | ![T마이라운지](https://github.com/ValueWith/.github/assets/110911811/eedad450-05e6-4b23-a087-7d491d07dc84) |
 
-| 이메일 인증                                                                                                        | [프로필 편집](https://github.com/ValueWith/.github/blob/main/profile/detail/profile.md)                           |
+| [이메일 인증](https://github.com/ValueWith/.github/blob/main/profile/detail/email.md)                                                                                                        | [프로필 편집](https://github.com/ValueWith/.github/blob/main/profile/detail/profile.md)                           |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | ![T이메일인증](https://github.com/ValueWith/.github/assets/110911811/4369bb2d-58ba-4f56-82d5-e73f4be80066) | ![T프로필수정](https://github.com/ValueWith/.github/assets/110911811/0452ed15-7fb2-4bb6-98c9-0b35fe7502c4) |
