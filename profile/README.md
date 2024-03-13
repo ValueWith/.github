@@ -4,6 +4,8 @@
 
 > 혼자가 아니야, Trip With Buddy - Tweaver
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FValueWith&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <span style='color: #3182f6'>Tweaver</span>는 좀 더 쉽게 여행을 떠날 수 있도록 도와주는 <b>당일치기 여행 스케줄링</b> + <b>일행 모집</b> 플랫폼입니다.
 <br />
 
