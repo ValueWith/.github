@@ -76,7 +76,8 @@
 
 ### ⚙️ 프로젝트 아키텍처
 
-![ServiceArchitecture2](https://github.com/ValueWith/.github/assets/110911811/aa7626ef-d651-46d8-902e-a5ef6642ab17)
+![ServiceArchitecture](https://github.com/ValueWith/.github/assets/110911811/f8de66f2-aaf3-4aca-a6da-256ba1eb461d)
+
 
 
 ### 💽 ERD 구조
