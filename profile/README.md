@@ -76,11 +76,12 @@
 
 ### ⚙️ 프로젝트 아키텍처
 
-![프로젝트 아키텍처](https://github.com/ValueWith/.github/assets/110911811/1641cd3f-f64b-43cb-9aaf-5df980ae9b79)
+![ServiceArchitecture2](https://github.com/ValueWith/.github/assets/110911811/aa7626ef-d651-46d8-902e-a5ef6642ab17)
+
 
 ### 💽 ERD 구조
 
-![같이가치_ERD_231118opt](https://github.com/ValueWith/.github/assets/110911811/71da7073-afbe-4409-9f3d-6aecb0f924cf)
+![같이가치_2차_ERD_라이트](https://github.com/ValueWith/.github/assets/110911811/7feed053-7ee0-469e-aef0-313dcc87f40c)
 
 <br/>
 
